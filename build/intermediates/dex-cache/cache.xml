@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\Anikesh Prasad\AndroidStudioProjects\ListViewActivity\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\24.2.0\jars\libs\internal_impl-24.2.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="60d7b23621d31e6f42f4f76f16af467e57a20cda">
+        <dex dex="C:\Users\Anikesh Prasad\AndroidStudioProjects\ListViewActivity\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.0_0f52f3da2702af6398bde2f235145589a391a680\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Anikesh Prasad\AndroidStudioProjects\ListViewActivity\app\build\intermediates\exploded-aar\com.android.support\support-v4\24.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="45f5eda279825ff470e3f51019d374d1ef61e000">
+        <dex dex="C:\Users\Anikesh Prasad\AndroidStudioProjects\ListViewActivity\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-24.2.0_f87b96eb615227464f0aec73108bbd3dca9559fe\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Anikesh Prasad\AndroidStudioProjects\ListViewActivity\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\24.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="c3c638be6e650b165ab9ae144857b64e82787fad">
+        <dex dex="C:\Users\Anikesh Prasad\AndroidStudioProjects\ListViewActivity\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-24.2.0_b3bc048317a33fd3eeac0b9259acd64531f94fb6\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Anikesh Prasad\AndroidStudioProjects\ListViewActivity\app\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="f9b41622897665678d31d78e57a361cb0cebcb0d">
+        <dex dex="C:\Users\Anikesh Prasad\AndroidStudioProjects\ListViewActivity\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-compat-24.2.0_994893009c409278fa8b771081acd71069cbaa5b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Anikesh Prasad\AppData\Local\Android\Sdk\extras\android\m2repository\com\android\support\support-annotations\24.2.0\support-annotations-24.2.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="6be858a75633b1f0a2d24cad740db57775cb6871">
+        <dex dex="C:\Users\Anikesh Prasad\AndroidStudioProjects\ListViewActivity\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-24.2.0_cc9ea5e47fb57a8ec24d4f6645ce2f2900a1d6bc\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Anikesh Prasad\AndroidStudioProjects\ListViewActivity\app\build\intermediates\exploded-aar\com.android.support\support-fragment\24.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="d8bd2268fdcbfd52c76ade65d9900cd8def93a44">
+        <dex dex="C:\Users\Anikesh Prasad\AndroidStudioProjects\ListViewActivity\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-fragment-24.2.0_1641da062fddbdc2c34a1dcf2465174f0f042ebc\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Anikesh Prasad\AndroidStudioProjects\ListViewActivity\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\24.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="f3ee23ef25c9a8fe3d40246d0b7097267963a612">
+        <dex dex="C:\Users\Anikesh Prasad\AndroidStudioProjects\ListViewActivity\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-animated-vector-drawable-24.2.0_6392e05fcff683acf2ab88f9afcbeaa4dd560081\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Anikesh Prasad\AndroidStudioProjects\ListViewActivity\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\24.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="6eb9107eb34d2fe2b020662b7fbbec991dcba846">
+        <dex dex="C:\Users\Anikesh Prasad\AndroidStudioProjects\ListViewActivity\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-media-compat-24.2.0_b03301824aeeaae1a74f6f17bc94e61960cbd9c4\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Anikesh Prasad\AndroidStudioProjects\ListViewActivity\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\24.2.0\jars\libs\internal_impl-24.2.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="6e02e34594ebe9c0501ffda8dd48497f81b82977">
+        <dex dex="C:\Users\Anikesh Prasad\AndroidStudioProjects\ListViewActivity\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.0_611d7b2988cc6ffce6cc22f503c00f8cb180eb06\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Anikesh Prasad\AndroidStudioProjects\ListViewActivity\app\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.0\jars\libs\internal_impl-24.2.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="771b3cc0e597b54da25f8086ba73180c59c6bc71">
+        <dex dex="C:\Users\Anikesh Prasad\AndroidStudioProjects\ListViewActivity\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.0_d5ef06ba86ec718500a3237a480788275036bf34\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Anikesh Prasad\AndroidStudioProjects\ListViewActivity\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="70e4ba3562f2c2b0ec0ddf01efb820d3c212f522">
+        <dex dex="C:\Users\Anikesh Prasad\AndroidStudioProjects\ListViewActivity\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_405939fe60c8c01add09339eb9aad12ec8ed9264\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Anikesh Prasad\AndroidStudioProjects\ListViewActivity\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\24.2.0\jars\libs\internal_impl-24.2.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="045be695d968dd707691cc55d23746dbf8cf569a">
+        <dex dex="C:\Users\Anikesh Prasad\AndroidStudioProjects\ListViewActivity\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.0_81551654b7a414675c795e056a2ca9d950b53b16\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Anikesh Prasad\AndroidStudioProjects\ListViewActivity\app\build\intermediates\exploded-aar\com.android.support\support-fragment\24.2.0\jars\libs\internal_impl-24.2.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="032a4b53def5e2ceedfc2e793b126c0163cfa1dd">
+        <dex dex="C:\Users\Anikesh Prasad\AndroidStudioProjects\ListViewActivity\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.0_2afad0c294038028572384d96ca8d7f28b987d31\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Anikesh Prasad\AndroidStudioProjects\ListViewActivity\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\24.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="c84e216d9bf618464d6b9564d71d9a656433e7c4">
+        <dex dex="C:\Users\Anikesh Prasad\AndroidStudioProjects\ListViewActivity\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-ui-24.2.0_d3c251ca5f273126e0181a3d9247b2b836c9e257\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Anikesh Prasad\AndroidStudioProjects\ListViewActivity\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="2dc49e440889a74bc96bd44a121bad9b16b04ae4">
+        <dex dex="C:\Users\Anikesh Prasad\AndroidStudioProjects\ListViewActivity\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_523256c04ed71585723faf90532d8123468a4477\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Anikesh Prasad\AndroidStudioProjects\ListViewActivity\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\24.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="beac40bcc8a320a896dd15f5109cfcaea5e1e0e3">
+        <dex dex="C:\Users\Anikesh Prasad\AndroidStudioProjects\ListViewActivity\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-vector-drawable-24.2.0_8a218af420cacd467a08f0fef16d049fcaaf8a6f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Anikesh Prasad\AndroidStudioProjects\ListViewActivity\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\24.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="fcc945a86ebcbf527429acb8216ec7dae2c06417">
+        <dex dex="C:\Users\Anikesh Prasad\AndroidStudioProjects\ListViewActivity\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-utils-24.2.0_9b166f77cb5b08e9dd1b902cc7fbb0945d1cf506\classes.dex" />
+    </item>
+
+</items>
